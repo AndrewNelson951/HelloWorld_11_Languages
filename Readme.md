@@ -1,35 +1,38 @@
-# C 
-# gcc -o hello helloworld.c
-# ./hello
+# Hello World in 11 Languages
+## Compile/Run commands for each language
 
-# Java
-# javac helloworld.java
-# java helloworld
+### C
+gcc -o hello helloworld.c
+./hello
 
-# Python
-# python3 helloworld.py
+### Java
+javac helloworld.java
+java helloworld
 
-# JavaScript
-# node helloworld.js
+### Python
+python3 helloworld.py
 
-# Go
-# go run helloworld.go
+### JavaScript
+node helloworld.js
 
-# Ruby
-# ruby helloworld.rb
+### Go
+go run helloworld.go
 
-# PHP
-# php helloworld.php
+### Ruby
+ruby helloworld.rb
 
-# C++
-# g++ -o helloworld_cpp helloworld.cpp
+### PHP
+php helloworld.php
 
-# Perl
-# perl helloworld.pl
+### C++
+g++ -o helloworld_cpp helloworld.cpp
 
-# Unix Shell
-# 
+### Perl
+perl helloworld.pl
 
-# HTML
-# [ Open in your browser]
+### Unix Shell
+sh helloworld.sh
+
+### HTML
+[ Open in your browser]
 
